@@ -1,0 +1,14 @@
+C:\Users\alunolages.LAGES\Documents\NetBeansProjects\task-manager\src\main\java\com\mycompany\task\manager\models\enums\Prioridade.java
+C:\Users\alunolages.LAGES\Documents\NetBeansProjects\task-manager\src\main\java\com\mycompany\task\manager\models\TarefaRecorrente.java
+C:\Users\alunolages.LAGES\Documents\NetBeansProjects\task-manager\src\main\java\com\mycompany\task\manager\controller\GerenciadorDeTarefas.java
+C:\Users\alunolages.LAGES\Documents\NetBeansProjects\task-manager\src\main\java\com\mycompany\task\manager\interfaces\Marcavel.java
+C:\Users\alunolages.LAGES\Documents\NetBeansProjects\task-manager\src\main\java\com\mycompany\task\manager\exceptions\TarefaNaoEncontradaException.java
+C:\Users\alunolages.LAGES\Documents\NetBeansProjects\task-manager\src\main\java\com\mycompany\task\manager\storage\IDManager.java
+C:\Users\alunolages.LAGES\Documents\NetBeansProjects\task-manager\src\main\java\com\mycompany\task\manager\storage\TarefaTypeAdapter.java
+C:\Users\alunolages.LAGES\Documents\NetBeansProjects\task-manager\src\main\java\com\mycompany\task\manager\models\TarefaUrgente.java
+C:\Users\alunolages.LAGES\Documents\NetBeansProjects\task-manager\src\main\java\com\mycompany\task\manager\storage\PersistenciaDeTarefas.java
+C:\Users\alunolages.LAGES\Documents\NetBeansProjects\task-manager\src\main\java\com\mycompany\task\manager\models\Tarefa.java
+C:\Users\alunolages.LAGES\Documents\NetBeansProjects\task-manager\src\main\java\com\mycompany\task\manager\Main.java
+C:\Users\alunolages.LAGES\Documents\NetBeansProjects\task-manager\src\main\java\com\mycompany\task\manager\interfaces\Notificavel.java
+C:\Users\alunolages.LAGES\Documents\NetBeansProjects\task-manager\src\main\java\com\mycompany\task\manager\models\TarefaSimples.java
+C:\Users\alunolages.LAGES\Documents\NetBeansProjects\task-manager\src\main\java\com\mycompany\task\manager\exceptions\TarefaJaConcluidaException.java

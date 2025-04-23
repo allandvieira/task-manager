@@ -1,0 +1,15 @@
+com\mycompany\task\manager\models\enums\Prioridade.class
+com\mycompany\task\manager\models\Tarefa.class
+com\mycompany\task\manager\exceptions\TarefaJaConcluidaException.class
+com\mycompany\task\manager\interfaces\Notificavel.class
+com\mycompany\task\manager\models\TarefaUrgente.class
+com\mycompany\task\manager\models\TarefaRecorrente.class
+com\mycompany\task\manager\storage\PersistenciaDeTarefas$1.class
+com\mycompany\task\manager\storage\PersistenciaDeTarefas.class
+com\mycompany\task\manager\exceptions\TarefaNaoEncontradaException.class
+com\mycompany\task\manager\storage\IDManager.class
+com\mycompany\task\manager\models\TarefaSimples.class
+com\mycompany\task\manager\Main.class
+com\mycompany\task\manager\controller\GerenciadorDeTarefas.class
+com\mycompany\task\manager\interfaces\Marcavel.class
+com\mycompany\task\manager\storage\TarefaTypeAdapter.class
